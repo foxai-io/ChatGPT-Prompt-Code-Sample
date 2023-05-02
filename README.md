@@ -4,6 +4,8 @@
 
 线上实例以 notebook 的形式，可以直接运行互动。本repo会同时保存 python 源代码 (`.py`)，与 Jupyter notebook (`.ipynb`) 的形式。python 源代码可以在命令行执行，Jupyter notebook 可以直接在vscode里互动运行，比较方便。
 
+如果想看中文字幕版本，可以参照这个repo [ChatGPT-Prompt-Engineering-for-Developers-in-Chinese](https://github.com/foxai-io/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese)
+
 # Setup
 
 ## OpenAI API Key
